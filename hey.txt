@@ -1,1 +1,3 @@
-conflict one
+<<<<<<< HEAD
+conflict fixed
+>>>>>>> master
